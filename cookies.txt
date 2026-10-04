@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dalyangardenpension.co.uk	TRUE	/	FALSE	1999999999	CONCRETE5	iq1vbnm8a0d5f8u01tgadre2j5
+
